@@ -1,0 +1,8 @@
+c:\Users\Daniel\Desktop\Testrepo\StudioCodeTest\bin\Debug\netcoreapp1.0\StudioCodeTest.deps.json
+c:\Users\Daniel\Desktop\Testrepo\StudioCodeTest\bin\Debug\netcoreapp1.0\StudioCodeTest.runtimeconfig.json
+c:\Users\Daniel\Desktop\Testrepo\StudioCodeTest\bin\Debug\netcoreapp1.0\StudioCodeTest.runtimeconfig.dev.json
+c:\Users\Daniel\Desktop\Testrepo\StudioCodeTest\bin\Debug\netcoreapp1.0\StudioCodeTest.dll
+c:\Users\Daniel\Desktop\Testrepo\StudioCodeTest\bin\Debug\netcoreapp1.0\StudioCodeTest.pdb
+c:\Users\Daniel\Desktop\Testrepo\StudioCodeTest\obj\Debug\netcoreapp1.0\StudioCodeTest.AssemblyInfo.cs
+c:\Users\Daniel\Desktop\Testrepo\StudioCodeTest\obj\Debug\netcoreapp1.0\StudioCodeTest.dll
+c:\Users\Daniel\Desktop\Testrepo\StudioCodeTest\obj\Debug\netcoreapp1.0\StudioCodeTest.pdb
